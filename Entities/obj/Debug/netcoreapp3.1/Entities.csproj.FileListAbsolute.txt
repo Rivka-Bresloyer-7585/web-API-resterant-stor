@@ -1,0 +1,9 @@
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

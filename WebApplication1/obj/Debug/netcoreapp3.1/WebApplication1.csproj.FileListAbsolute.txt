@@ -1,0 +1,127 @@
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\Desktop\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\Desktop\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache

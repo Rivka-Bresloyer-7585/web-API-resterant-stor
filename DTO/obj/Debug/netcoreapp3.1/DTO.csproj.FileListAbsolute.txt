@@ -1,0 +1,9 @@
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\Documents\מסלול\שנה ב\WEB-API\MyProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
